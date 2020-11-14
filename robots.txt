@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: formyfamily.github.io/sitemap.xml

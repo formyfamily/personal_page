@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Zhengfei Kuang</title>
-    <link>formyfamily.github.io/tags/</link>
-      <atom:link href="formyfamily.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>zhengfeikuang.com/tags/</link>
+      <atom:link href="zhengfeikuang.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/formyfamily.github.io/images/icon_hu7bfa335879e23b5e181e1083958f9d87_3410_512x512_fill_lanczos_center_2.png</url>
+      <url>/zhengfeikuang.com/images/icon_hu7bfa335879e23b5e181e1083958f9d87_3410_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
-      <link>formyfamily.github.io/tags/</link>
+      <link>zhengfeikuang.com/tags/</link>
     </image>
     
   </channel>

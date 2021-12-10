@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhengfei Kuang</title>
-    <link>formyfamily.github.io/</link>
-      <atom:link href="formyfamily.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>zhengfeikuang.com/</link>
+      <atom:link href="zhengfeikuang.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhengfei Kuang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/formyfamily.github.io/images/icon_hu7bfa335879e23b5e181e1083958f9d87_3410_512x512_fill_lanczos_center_2.png</url>
+      <url>/zhengfeikuang.com/images/icon_hu7bfa335879e23b5e181e1083958f9d87_3410_512x512_fill_lanczos_center_2.png</url>
       <title>Zhengfei Kuang</title>
-      <link>formyfamily.github.io/</link>
+      <link>zhengfeikuang.com/</link>
     </image>
     
     <item>
       <title>Dynamic Facial Asset and Rig Generation from a Single Scan</title>
-      <link>formyfamily.github.io/publication/3/</link>
+      <link>zhengfeikuang.com/publication/3/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>formyfamily.github.io/publication/3/</guid>
+      <guid>zhengfeikuang.com/publication/3/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -42,9 +42,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Other stuffs</title>
-      <link>formyfamily.github.io/others/</link>
+      <link>zhengfeikuang.com/others/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>formyfamily.github.io/others/</guid>
+      <guid>zhengfeikuang.com/others/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a huge game fan! I have a wide range of interests in games, including shooting games, role-playing games, strategy games, Rogue-like games, action games, and a lot, lot more. I&amp;rsquo;m not good at most of them (especially PVP games), but still receiving a lot of fun from them.&lt;/p&gt;
 &lt;p&gt;Currently, I have all achievements of three games on Steam: The Hollow Knight, Celeste, and Slay the Spire. I&amp;rsquo;m still striving to get more.&lt;/p&gt;
 &lt;p&gt;My second biggest hobby is watching movies! Especially movies from the 1970s to 2000s. Harrison Ford is my favorite actor. Hope his fifth Indiana Jone&amp;rsquo;s coming out soon. (and not be ruined like Star War sequels)&lt;/p&gt;
@@ -54,9 +54,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Probabilistic Projective Association and Semantic Guided Relocalization for Dense Reconstruction</title>
-      <link>formyfamily.github.io/publication/2/</link>
+      <link>zhengfeikuang.com/publication/2/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-      <guid>formyfamily.github.io/publication/2/</guid>
+      <guid>zhengfeikuang.com/publication/2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -82,9 +82,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Learning to Reconstruct High-quality 3D Shapes with Cascaded Fully Convolutional Networks</title>
-      <link>formyfamily.github.io/publication/1/</link>
+      <link>zhengfeikuang.com/publication/1/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>formyfamily.github.io/publication/1/</guid>
+      <guid>zhengfeikuang.com/publication/1/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

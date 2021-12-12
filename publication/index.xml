@@ -2,21 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Zhengfei Kuang</title>
-    <link>formyfamily.github.io/publication/</link>
-      <atom:link href="formyfamily.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhengfeikuang.com/publication/</link>
+      <atom:link href="https://zhengfeikuang.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/formyfamily.github.io/images/icon_hu7bfa335879e23b5e181e1083958f9d87_3410_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zhengfeikuang.com/images/icon_hu7bfa335879e23b5e181e1083958f9d87_3410_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>formyfamily.github.io/publication/</link>
+      <link>https://zhengfeikuang.com/publication/</link>
     </image>
     
     <item>
+      <title>NeROIC: Neural Object Capture and Rendering from Online Image Collections</title>
+      <link>https://zhengfeikuang.com/publication/5/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhengfeikuang.com/publication/5/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).--&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DenseGAP: Graph-Structured Dense Correspondence Learning with Anchor Points</title>
+      <link>https://zhengfeikuang.com/publication/4/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhengfeikuang.com/publication/4/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).--&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Dynamic Facial Asset and Rig Generation from a Single Scan</title>
-      <link>formyfamily.github.io/publication/3/</link>
+      <link>https://zhengfeikuang.com/publication/3/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>formyfamily.github.io/publication/3/</guid>
+      <guid>https://zhengfeikuang.com/publication/3/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -42,9 +98,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Probabilistic Projective Association and Semantic Guided Relocalization for Dense Reconstruction</title>
-      <link>formyfamily.github.io/publication/2/</link>
+      <link>https://zhengfeikuang.com/publication/2/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-      <guid>formyfamily.github.io/publication/2/</guid>
+      <guid>https://zhengfeikuang.com/publication/2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -70,9 +126,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Learning to Reconstruct High-quality 3D Shapes with Cascaded Fully Convolutional Networks</title>
-      <link>formyfamily.github.io/publication/1/</link>
+      <link>https://zhengfeikuang.com/publication/1/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>formyfamily.github.io/publication/1/</guid>
+      <guid>https://zhengfeikuang.com/publication/1/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

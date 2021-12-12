@@ -2,21 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yajie Zhao | Zhengfei Kuang</title>
-    <link>formyfamily.github.io/author/yajie-zhao/</link>
-      <atom:link href="formyfamily.github.io/author/yajie-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhengfeikuang.com/author/yajie-zhao/</link>
+      <atom:link href="https://zhengfeikuang.com/author/yajie-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Yajie Zhao</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/formyfamily.github.io/images/icon_hu7bfa335879e23b5e181e1083958f9d87_3410_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zhengfeikuang.com/images/icon_hu7bfa335879e23b5e181e1083958f9d87_3410_512x512_fill_lanczos_center_2.png</url>
       <title>Yajie Zhao</title>
-      <link>formyfamily.github.io/author/yajie-zhao/</link>
+      <link>https://zhengfeikuang.com/author/yajie-zhao/</link>
     </image>
     
     <item>
+      <title>DenseGAP: Graph-Structured Dense Correspondence Learning with Anchor Points</title>
+      <link>https://zhengfeikuang.com/publication/4/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhengfeikuang.com/publication/4/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).--&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Dynamic Facial Asset and Rig Generation from a Single Scan</title>
-      <link>formyfamily.github.io/publication/3/</link>
+      <link>https://zhengfeikuang.com/publication/3/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>formyfamily.github.io/publication/3/</guid>
+      <guid>https://zhengfeikuang.com/publication/3/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

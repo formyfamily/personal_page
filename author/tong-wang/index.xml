@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tong Wang | Zhengfei Kuang</title>
+    <link>https://zhengfeikuang.com/author/tong-wang/</link>
+      <atom:link href="https://zhengfeikuang.com/author/tong-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tong Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhengfeikuang.com/images/icon_hu7bfa335879e23b5e181e1083958f9d87_3410_512x512_fill_lanczos_center_2.png</url>
+      <title>Tong Wang</title>
+      <link>https://zhengfeikuang.com/author/tong-wang/</link>
+    </image>
+    
+    <item>
+      <title>DenseGAP: Graph-Structured Dense Correspondence Learning with Anchor Points</title>
+      <link>https://zhengfeikuang.com/publication/4/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhengfeikuang.com/publication/4/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).--&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

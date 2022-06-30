@@ -5,7 +5,7 @@
     <link>https://zhengfeikuang.com/author/zeng-huang/</link>
       <atom:link href="https://zhengfeikuang.com/author/zeng-huang/index.xml" rel="self" type="application/rss+xml" />
     <description>Zeng Huang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhengfeikuang.com/images/icon_hu7bfa335879e23b5e181e1083958f9d87_3410_512x512_fill_lanczos_center_2.png</url>
       <title>Zeng Huang</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Neural Object Rendering from Online Images</title>
+      <title>NeROIC: Neural Object Capture and Rendering from Online Image Collections</title>
       <link>https://zhengfeikuang.com/publication/5/</link>
-      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://zhengfeikuang.com/publication/5/</guid>
       <description>&lt;!-- 
 

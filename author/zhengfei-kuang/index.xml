@@ -5,12 +5,40 @@
     <link>https://zhengfeikuang.com/author/zhengfei-kuang/</link>
       <atom:link href="https://zhengfeikuang.com/author/zhengfei-kuang/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhengfei Kuang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhengfeikuang.com/images/icon_hu7bfa335879e23b5e181e1083958f9d87_3410_512x512_fill_lanczos_center_2.png</url>
       <title>Zhengfei Kuang</title>
       <link>https://zhengfeikuang.com/author/zhengfei-kuang/</link>
     </image>
+    
+    <item>
+      <title>PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields</title>
+      <link>https://zhengfeikuang.com/publication/6/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhengfeikuang.com/publication/6/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ 
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).--&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>NeROIC: Neural Object Capture and Rendering from Online Image Collections</title>
